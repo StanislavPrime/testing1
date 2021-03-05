@@ -7,10 +7,6 @@
 
 
 
-class t {
-
-};
-
 
 
 #endif //TESTING1_2_T_H
